@@ -1,0 +1,2 @@
+-- File reserved for the assigned project task.
+-- SQL will be added after customer spending tier is complete.
